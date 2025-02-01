@@ -10,6 +10,11 @@
 ![](/image/HC-SR04-Ultrasonic-Sensor-Working-Echo-when-no-Obstacle.gif)
 
 <br/>
+## 3D-print
+
+[HC-SR04 ultrasonic range sensor housing](https://www.thingiverse.com/thing:6851968)
+
+<br/>
 
 ## Arduino configuration
 
